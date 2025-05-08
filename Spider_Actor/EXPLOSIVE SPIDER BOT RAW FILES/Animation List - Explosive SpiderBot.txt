@@ -1,0 +1,11 @@
+Animation List:
+
+Idle: 10-70
+Walk: 80-110
+Walk_RM: 120-150
+StrafeLeft: 160-190
+StrafeRight: 200-230
+StrafeLeft_RM: 240-270
+StrafeRight_RM: 280-310
+Jump: 320-345
+Jump_RM: 355-380
