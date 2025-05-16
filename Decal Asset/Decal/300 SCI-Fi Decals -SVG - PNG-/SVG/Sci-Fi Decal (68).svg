@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" viewBox="0 0 720 720">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="286.7 416.3 225.4 310.4 103.3 310.4 42.2 416.3 103.3 522.2 225.4 522.2 286.7 416.3"/>
+  <polygon class="cls-1" points="494.4 310.7 433.3 416.5 494.4 522.4 616.7 522.4 677.8 416.5 616.7 310.7 494.4 310.7"/>
+  <polygon class="cls-1" points="421.4 197.6 299.1 197.6 238 303.5 299.1 409.3 421.4 409.3 482.4 303.5 421.4 197.6"/>
+</svg>
